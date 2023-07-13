@@ -1,0 +1,20 @@
+.roji-container {
+  display: flex;
+  border: 1px solid black;
+  width: auto;
+  position: absolute;
+  border-radius: 25px;
+  padding: 6px;
+}
+
+.card-indicator {
+  margin-right: 5px;
+}
+
+.credit-input, 
+.credit-input:focus,
+.credit-input:focus-visible,
+.credit-input:active {
+  border: none!important;
+  outline: none!important;
+}
